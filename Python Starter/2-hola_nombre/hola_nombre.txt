@@ -1,0 +1,6 @@
+inicio
+
+leer nombre imprimir ingrese un nombre
+imprimir hola nombre
+
+fin

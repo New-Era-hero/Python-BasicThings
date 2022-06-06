@@ -1,0 +1,8 @@
+inicio
+
+leer N1,N2
+si N1 > N2
+	imprimir N1 es mayor que N2
+si no
+	imprimir N2 es mayor que N1
+fin

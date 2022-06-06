@@ -1,0 +1,10 @@
+inicio
+
+leer N
+secuencia terminada?
+	si
+	fin si
+si no
+N * Item
+
+fin

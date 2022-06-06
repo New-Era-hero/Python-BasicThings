@@ -1,0 +1,21 @@
+inicio
+
+leer N1,N2,N3
+si N1 > N2
+	si N1 > N3
+		si N2 > N3
+			mostrar N1 N2 N3
+		else
+			mostrar N1 N3 N2
+	else
+		mostrar N3 N1 N2
+else
+ if N2 > N3
+	si N1 > N3
+		mostrar N2 N1 N3
+	else
+		mostrar N2 N3 N1
+ else
+	mostrar N3 N2 N1
+
+fin
